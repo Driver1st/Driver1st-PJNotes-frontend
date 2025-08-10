@@ -1,6 +1,5 @@
 const PREFIX = "https://pjnotes-backend-production.up.railway.app/api";
 
-
 const req = (url, options = {}) => {
   const { body } = options;
 
